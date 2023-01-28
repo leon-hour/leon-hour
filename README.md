@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, React, Redux, SpringBoot**
 
-- 👯 I’m currently working part-time job at **MakerMinds**
+- 👯 I'm currently a full-time student working part-time at **MakerMinds**
 
 - 📫 How to reach me **leonora.latifaj123@gmail.com**
 
