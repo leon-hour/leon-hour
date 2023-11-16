@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leonora Latifaj</h1>
-<h3 align="center">Java Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Restaurant-point App and CRM app**
+- 🔭 I’m currently working on **Restaurant-point App and Employee Mangement**
 
-- 🌱 I’m currently learning **Java, React, Redux, SpringBoot**
+- 🌱 I’m currently learning **Java, React, Redux, SpringBoot, JavaScript, Express**
 
-- 👯 I'm currently a full-time student working full-time at **MakerMinds**
+- 👯 I'm currently  working full-time at **MakerMinds** as **Software Engineer | Web Developer | Coding Mentor**
 
 - 📫 How to reach me **leonora.latifaj123@gmail.com**
 
