@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonora Latifaj</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer | Web Developer | Coding Mentor</h3>
 
 - 🔭 I’m currently working on **Restaurant-point App and Employee Mangement**
 
